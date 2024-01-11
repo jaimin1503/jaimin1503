@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi there! 👋 I'm Jaimin.
 
-<!--
-**jaimin1503/jaimin1503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate MERN (MongoDB, Express.js, React, Node.js) stack developer with a keen interest in creating robust and scalable web applications. My journey in the world of coding started with a fascination for turning ideas into functional and user-friendly software solutions.
 
-Here are some ideas to get you started:
+## 🚀 Skills and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend:** HTML, CSS, JavaScript (ES6+), React.js
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Version Control:** Git, GitHub
+- **Other Tools:** VS Code, Postman
+
+## 📈 GitHub Stats
+
+![Jaimin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&hide_title=true&hide=issues)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact)](https://github.com/your_username/github-readme-stats)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/your_username/)]([https://www.linkedin.com/in/your_username/](https://www.linkedin.com/in/jaimin-viramgama-487485233/))
+[![Portfolio](https://img.shields.io/badge/-Portfolio-yellow?style=flat-square&link=https://your-portfolio-url.com)]([https://your-portfolio-url.com](https://jaimin-15-03.netlify.app)https://jaimin-15-03.netlify.app)
