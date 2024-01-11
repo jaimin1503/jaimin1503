@@ -12,8 +12,8 @@ I am a passionate MERN (MongoDB, Express.js, React, Node.js) stack developer wit
 
 ## 📈 GitHub Stats
 
-![Jaimin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&hide_title=true&hide=issues)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact)](https://github.com/your_username/github-readme-stats)
+![Jaimin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaimin1503&show_icons=true&hide_title=true&hide=issues)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaimin1503&layout=compact)](https://github.com/your_username/github-readme-stats)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/your_username/)]([https://www.linkedin.com/in/your_username/](https://www.linkedin.com/in/jaimin-viramgama-487485233/))
 [![Portfolio](https://img.shields.io/badge/-Portfolio-yellow?style=flat-square&link=https://your-portfolio-url.com)]([https://your-portfolio-url.com](https://jaimin-15-03.netlify.app)https://jaimin-15-03.netlify.app)
