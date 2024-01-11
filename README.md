@@ -15,4 +15,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaimin1503&layout=compact)](https://github.com/your_username/github-readme-stats)
 
 ## Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jaimin-viramgama/)](https://www.linkedin.com/in/jaimin-viramgama/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jaimin-viramgama-487485233/)](https://www.linkedin.com/in/jaimin-viramgama-487485233/)
