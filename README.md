@@ -12,7 +12,7 @@
 ## 📈 GitHub Stats
 
 ![Jaimin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaimin1503&show_icons=true&hide_title=true&hide=issues)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaimin1503&layout=compact)](https://github.com/your_username/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaimin1503&layout=compact)](https://github.com/jaimin1503/github-readme-stats)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaimin1503&" alt="jaimin1503" /></p>
 
 ## Let's Connect!
