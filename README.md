@@ -17,5 +17,3 @@
 
 ## Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jaimin-viramgama-487485233/)](https://www.linkedin.com/in/jaimin-viramgama-487485233/)
-
-<p><img src="https://komarev.com/ghpvc/?username=jaimin1503&label=Profile%20views&color=0e75b6&style=flat" </p>
