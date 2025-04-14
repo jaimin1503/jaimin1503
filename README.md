@@ -1,7 +1,7 @@
 # Hello, I'm Jaimin Viramgama! 👋
 
-🌟 React + Spring Boot Developer
-🚀 Building scalable applications with MongoDB, Express, React, and Node.js
+🌟 React + Spring Boot Developer   
+🚀 Building scalable applications with MongoDB, Express, React, and Node.js   
 🌱 Always learning and exploring new tech in the web development world
 
 ## About Me
