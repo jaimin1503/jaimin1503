@@ -1,13 +1,12 @@
 # Hello, I'm Jaimin Viramgama! 👋
 
-🌟 MERN Stack Developer | Open Source Contributor  
-🚀 Building scalable applications with MongoDB, Express, React, and Node.js  
+🌟 React + Spring Boot Developer
+🚀 Building scalable applications with MongoDB, Express, React, and Node.js
 🌱 Always learning and exploring new tech in the web development world
 
 ## About Me
-- 💻 Proficient in JavaScript, Node.js, Express, React, MongoDB
-- 🌐 Skilled in HTML, CSS, Redux, RESTful APIs
-- 📚 Currently diving deeper into Next.js and TypeScript.
+- 💻 Proficient in JavaScript, Node.js, Express, React, MongoDB, PostgreSQL, Spring Boot.
+- 📚 Currently diving deeper into JAVA and Spring Boot.
 
 ## 📈 GitHub Stats
 
